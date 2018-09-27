@@ -1,0 +1,15 @@
+// Name:  Kenneth Yue
+// Seneca Student ID: 127932176
+// Seneca email:  kyue3@myseneca.ca
+// Date of completion: Sept 5, 2018
+//
+// I confirm that the content of this file is created by me,
+// with exception of the parts provided to me by my professor
+
+In workshop 1, I have learned how to pass arguments from a command line to the 
+program. The workshop has also refreshed me on how to create classes, and how
+to implement the require functions when using a class that contains a resource,
+such as the constructor, deconstructor, and the copy constructor/assignment.
+I think this workshop would of been more interesting if we were briefly taught
+how to pass arguments from the command line and then had to implement it ourselves
+rather than the code for it being given to us by the professor. 
